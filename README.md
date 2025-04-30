@@ -1,7 +1,8 @@
 
 # 🎓 Gradeify - Academic Management Portal
 
-![Gradeify Homepage Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/0d4247f3-cd14-40bf-b6e4-7203fcff64fb)
+
 
 **Gradeify** is a comprehensive web-based platform developed for the **CSE (AI) Department at JECRC Foundation**, designed to streamline academic management for **Students**, **Faculty**, and **HOD**. With an intuitive interface and role-based dashboards, it simplifies grade submissions, notifications, syllabus management, and more.
 
