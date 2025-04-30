@@ -34,14 +34,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Homepage | Student Dashboard | Faculty Dashboard | HOD Panel |
-|---------|-------------------|-------------------|-----------|
-| ![](./screenshot.png) | *(add screenshots here)* | *(add screenshots here)* | *(add screenshots here)* |
-
----
-
 ## 🧪 How to Run the Project
 
 1. Clone the repository:
