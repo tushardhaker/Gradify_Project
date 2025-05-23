@@ -50,12 +50,6 @@
 
 ---
 
-## 👨‍💻 Developers
-
-- **Tushar Dhaker**
-- **Puneet Agrawal**
-
----
 
 ## 🏫 Developed For
 
